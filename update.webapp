@@ -1,0 +1,9 @@
+{
+  "name": "Messenger Viewport",
+  "description": "Adds a viewport meta tag to messenger.com",
+  "developer": { "name": "Leo McArdle" },
+  "package_path": "extension.zip",
+  "icons": {
+    "128": "/icons/128.png"
+  }
+}
