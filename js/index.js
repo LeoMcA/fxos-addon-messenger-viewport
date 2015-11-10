@@ -19,7 +19,7 @@ function initialize() {
     var head = document.querySelector('head');
     var metaTag = document.createElement('meta');
     metaTag.name = "viewport"
-    metaTag.content = "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
+    metaTag.content = "width=device-width, initial-scale=1"
 
     head.appendChild(metaTag);
   }

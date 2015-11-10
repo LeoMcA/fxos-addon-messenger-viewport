@@ -2,7 +2,7 @@
     "manifest_version": 1,
     "name": "Messenger Viewport",
     "description": "Adds a viewport meta tag to messenger.com",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Leo McArdle",
     "content_scripts": [{
       "matches": ["https://www.messenger.com/*"],
